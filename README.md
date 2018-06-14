@@ -55,3 +55,8 @@ or create a .py file and write
 import logsanalysis
 logsanalysis.main()
 ```
+or just run the following commands
+```
+$ cd Logs-Analysis-Project
+$ python3 logsanalysis.py
+```
