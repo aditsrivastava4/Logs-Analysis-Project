@@ -2,7 +2,7 @@
 
 This Project is creating a tool which is analysing the news database which consists of Authors, Articles and Logs and prints the report after analysing.
 
-## Module
+## Modules
 * logsanalysis.py
 * newsdata.sql
 
